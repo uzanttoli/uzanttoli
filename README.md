@@ -2,7 +2,7 @@
 
 <!--
 **uzanttoli/uzanttoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="https://app.daily.dev/Zanttoli"><img src="https://api.daily.dev/devcards/028498d8beb441babdf1792ca9b008ad.png?r=qt2" width="400" alt="Uanderson de Oliveira Dos Santos's Dev Card"/></a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
